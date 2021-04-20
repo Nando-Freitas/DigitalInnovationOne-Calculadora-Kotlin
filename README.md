@@ -1,6 +1,6 @@
 # Calculadora Kotlin (Digital Innovation One)
 <hr>
-![Screen](screen.png)
+![Imagem](screen.png)
 
 <hr>
 
