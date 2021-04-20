@@ -1,6 +1,6 @@
 # Calculadora Kotlin (Digital Innovation One)
 <hr>
-![Program Screen]("../assets/screen.png")
+![Screen]("assets/screen.png")
 
 <hr>
 
