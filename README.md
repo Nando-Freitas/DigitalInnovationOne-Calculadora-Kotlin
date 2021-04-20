@@ -1,5 +1,8 @@
 # Calculadora Kotlin (Digital Innovation One)
 <hr>
+![Programa]("./assets/screen.png")
+
+<hr>
 
 Essa é uma calculadora desenvolvida em koltin com as seguintes operações:
 * Soma
